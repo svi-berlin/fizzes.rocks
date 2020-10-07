@@ -51,7 +51,7 @@ function s24_load_environment_config() {
     }
 
     // Load environments
-    require  __DIR__ . '/wp-config.env.php';
+    require __DIR__ . '/wp-config.env.php';
 
     if (!isset($env) || !is_array($env)) {
         throw new Exception('$env array not detected, you must set this in wp-config.env.php');
@@ -155,7 +155,7 @@ s24_load_environment_config();
  */
 
 // 1st - Load default config
-require  __DIR__ . '/wp-config.default.php';
+require __DIR__ . '/wp-config.default.php';
 
 // 2nd - Load config file for current environment
 require  __DIR__ . '/wp-config.' . WP_ENV . '.php';
