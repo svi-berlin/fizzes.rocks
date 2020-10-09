@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a4e6e76-309f-42de-88ff-0c288a91c8d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fizzes.rocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/wordpress.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/class-admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/class-frontend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/defaults.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/eu-cookie-law.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/img/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/img/cookie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/img/peadig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/img/wpgov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/inc/shortcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/inc/tinymce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/js/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/eu-cookie-law/wpml-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/css/ime-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/imagemagick-engine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/js/ime-admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-sv_SE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-sv_SE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine-tr_TR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/languages/imagemagick-engine.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/imagemagick-engine/screenshot-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-config.env.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-config.env.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-config.local.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-config.local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-config.php.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-config.production.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-config.production.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/malta/malta.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-content/plugins/malta/malta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/assets/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/assets/images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/local/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ie87t9GhnCeNarve4HsSIhF7f6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a4e6e76-309f-42de-88ff-0c288a91c8d9" name="Default Changelist" comment="" />
+      <created>1602256532866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602256532866</updated>
+      <workItem from="1602256534023" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="176" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602257112983">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="437" y="176" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.830@0.23.1440.830" timestamp="1602257112983" />
+  </component>
+</project>

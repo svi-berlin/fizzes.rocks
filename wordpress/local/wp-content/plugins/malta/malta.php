@@ -1,16 +1,11 @@
 <?php
-/**
- * @package Akismet
- */
+
 /*
-Plugin Name: Akismet Anti-Spam
-Plugin URI: https://akismet.com/
-Description: Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.
-Version: 4.1.6
-Author: Automattic
-Author URI: https://automattic.com/wordpress-plugins/
+Plugin Name: Malta
+Version: 1.0.0
+Author: Fizzes Rocks
 License: GPLv2 or later
-Text Domain: akismet
+Text Domain: malta
 */
 
 /*
@@ -37,30 +32,11 @@ if ( !function_exists( 'add_action' ) ) {
 	exit;
 }
 
-define( 'AKISMET_VERSION', '4.1.6' );
-define( 'AKISMET__MINIMUM_WP_VERSION', '4.0' );
-define( 'AKISMET__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
-define( 'AKISMET_DELETE_LIMIT', 100000 );
+define( 'MALTA_VERSION', '1.0.0' );
+define( 'MALTA__MINIMUM_WP_VERSION', '4.0' );
+define( 'MALTA__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
+define( 'MALTA_DELETE_LIMIT', 100000 );
 
-register_activation_hook( __FILE__, array( 'Akismet', 'plugin_activation' ) );
-register_deactivation_hook( __FILE__, array( 'Akismet', 'plugin_deactivation' ) );
+register_activation_hook( __FILE__, array( 'Malta', 'plugin_activation' ) );
+register_deactivation_hook( __FILE__, array( 'Malta', 'plugin_deactivation' ) );
 
-require_once( AKISMET__PLUGIN_DIR . 'class.akismet.php' );
-require_once( AKISMET__PLUGIN_DIR . 'class.akismet-widget.php' );
-require_once( AKISMET__PLUGIN_DIR . 'class.akismet-rest-api.php' );
-
-add_action( 'init', array( 'Akismet', 'init' ) );
-
-add_action( 'rest_api_init', array( 'Akismet_REST_API', 'init' ) );
-
-if ( is_admin() || ( defined( 'WP_CLI' ) && WP_CLI ) ) {
-	require_once( AKISMET__PLUGIN_DIR . 'class.akismet-admin.php' );
-	add_action( 'init', array( 'Akismet_Admin', 'init' ) );
-}
-
-//add wrapper class around deprecated akismet functions that are referenced elsewhere
-require_once( AKISMET__PLUGIN_DIR . 'wrapper.php' );
-
-if ( defined( 'WP_CLI' ) && WP_CLI ) {
-	require_once( AKISMET__PLUGIN_DIR . 'class.akismet-cli.php' );
-}

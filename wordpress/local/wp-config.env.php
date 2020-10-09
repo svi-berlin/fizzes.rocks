@@ -24,9 +24,9 @@
  */
 $env = [
     'production'  => [
-        'domain' => 'fizzes.rocks',
+        'domain' => 'www.fizzes.rocks',
         'path'   => '',
-        'ssl'    => false,
+        'ssl'    => true,
     ],
     'development' => [
         'domain' => 'localhost:8000',

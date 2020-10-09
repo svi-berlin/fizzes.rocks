@@ -9,17 +9,20 @@
  * @version    2.0.0
  * @author     Studio 24 Ltd  <hello@studio24.net>
  */
-  
+
+
+define('WP_SITEURL', 'https://www.fizzes.rocks');
+define('WP_HOME', 'https://www.fizzes.rocks');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'database-5000340288.ud-webspace.de');
 
 /** The name of the database for WordPress */
-define('DB_NAME', '');
+define('DB_NAME', 'dbs330995');
 
 /** MySQL database username */
-define('DB_USER', '');
+define('DB_USER', 'dbu280416');
 
 /** MySQL database password - set in wp-config.local.php */
 
